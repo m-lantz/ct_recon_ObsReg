@@ -7,3 +7,6 @@ Code to reproduce experiments and figures in the paper:
 
 
 by Megan Lantz, Emil Y. Sidky, Ingrid S. Reiser, Xiaochuan Pan, & Gregory Ongie. 2024.
+
+
+[See Colab Notebook](sigpro_paper_full_code.ipynb)
